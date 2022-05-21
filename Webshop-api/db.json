@@ -1,0 +1,33 @@
+{
+    "news": [
+        {
+            "id": 0,
+            "name": "Airpods",
+            "Description": "These Airpods are really nice to use because they play sound really good",
+            "price": 200,
+            "img": "https://imgur.com/gallery/2lbJ521"
+        },
+        {
+            "id": 1,
+            "name": "Speaker",
+            "Description": "Huge speakers, with even huger sound",
+            "price": 50,
+            "img": "https://imgur.com/a/UfiXkAy"
+        },
+        {
+            "id": 2,
+            "name": "Phone",
+            "Description": "Off brand phone you probably won't buy",
+            "price": 500,
+            "img": "https://imgur.com/2kHcdze"
+        },
+        {
+            "id": 3,
+            "name": "Tablet",
+            "Description": "This tablet looks like an ipad, but it's much cheaper and much worse!",
+            "price": 400,
+            "img": "https://imgur.com/a/XK1aRB4"
+        }
+
+    ]
+}
