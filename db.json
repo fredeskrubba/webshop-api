@@ -5,28 +5,28 @@
             "name": "Airpods",
             "description": "These Airpods are really nice to use because they play sound really good",
             "price": 200,
-            "img": "https://imgur.com/A7x5gOC"
+            "img": "https://i.imgur.com/A7x5gOC.png"
         },
         {
             "id": 1,
             "name": "Speaker",
             "description": "Huge speakers, with even huger sound",
             "price": 50,
-            "img": "https://imgur.com/j8hROzx"
+            "img": "https://i.imgur.com/j8hROzx.jpg"
         },
         {
             "id": 2,
             "name": "Phone",
             "description": "Off brand phone you probably won't buy",
             "price": 500,
-            "img": "https://imgur.com/2kHcdze"
+            "img": "https://i.imgur.com/2kHcdze.jpg"
         },
         {
             "id": 3,
             "name": "Tablet",
             "description": "This tablet looks like an ipad, but it's much cheaper and much worse!",
             "price": 400,
-            "img": "https://imgur.com/xhUDJMD"
+            "img": "https://i.imgur.com/xhUDJMD.jpg"
         }
 
     ]
