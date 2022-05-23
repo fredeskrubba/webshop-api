@@ -1,77 +1,79 @@
 {
-    "news": [
-        {
-            "id": 0,
-            "name": "Airpods",
-            "description": "These Airpods are really nice to use because they play sound really good",
-            "price": 200,
-            "img": "https://i.imgur.com/A7x5gOC.png"
-        },
-        {
-            "id": 1,
-            "name": "Speaker",
-            "description": "Huge speakers, with even huger sound",
-            "price": 50,
-            "img": "https://i.imgur.com/j8hROzx.jpg"
-        },
-        {
-            "id": 2,
-            "name": "Phone",
-            "description": "Off brand phone you probably won't buy",
-            "price": 500,
-            "img": "https://i.imgur.com/2kHcdze.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Tablet",
-            "description": "This tablet looks like an ipad, but it's much cheaper and much worse!",
-            "price": 400,
-            "img": "https://i.imgur.com/xhUDJMD.jpg"
-        }
-
-    ],
-    "populare": [
-        {
-            "id": 0,
-            "name": "Phone cover",
-            "description": "a cover for protecting your phone",
-            "price": 20,
-            "img": "https://i.imgur.com/KV1zs9K.jpg"
-        },
-        {
-            "id": 1,
-            "name": "PS4 Controller",
-            "description": "PS4 controller for people who can't get a PS5",
-            "price": 50,
-            "img": "https://i.imgur.com/8dp2MkB.jpg"
-        },
-        {
-            "id": 2,
-            "name": "LED Light strips",
-            "description": "LED strips for lighting up your room, to brighten up the atmosphere",
-            "price": 10,
-            "img": "https://i.imgur.com/k2g3tnC.jpg"
-        },
-        {
-            "id": 3,
-            "name": "Airpods",
-            "description": "These Airpods are really nice to use because they play sound really good",
-            "price": 200,
-            "img": "https://i.imgur.com/A7x5gOC.png"
-        },
-        {
-            "id": 4,
-            "name": "Airpods",
-            "description": "These Airpods are really nice to use because they play sound really good",
-            "price": 200,
-            "img": "https://i.imgur.com/A7x5gOC.png"
-        },
-        {
-            "id": 5,
-            "name": "Weed",
-            "description": "Weed",
-            "price": 30,
-            "img": "https://i.imgur.com/xpOCtRL.jpg"
-        }
-    ]
+    "items": {
+        "news": [
+            {
+                "id": 0,
+                "name": "Airpods",
+                "description": "These Airpods are really nice to use because they play sound really good",
+                "price": 200,
+                "img": "https://i.imgur.com/A7x5gOC.png"
+            },
+            {
+                "id": 1,
+                "name": "Speaker",
+                "description": "Huge speakers, with even huger sound",
+                "price": 50,
+                "img": "https://i.imgur.com/j8hROzx.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Phone",
+                "description": "Off brand phone you probably won't buy",
+                "price": 500,
+                "img": "https://i.imgur.com/2kHcdze.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Tablet",
+                "description": "This tablet looks like an ipad, but it's much cheaper and much worse!",
+                "price": 400,
+                "img": "https://i.imgur.com/xhUDJMD.jpg"
+            }
+    
+        ],
+        "populare": [
+            {
+                "id": 0,
+                "name": "Phone cover",
+                "description": "a cover for protecting your phone",
+                "price": 20,
+                "img": "https://i.imgur.com/KV1zs9K.jpg"
+            },
+            {
+                "id": 1,
+                "name": "PS4 Controller",
+                "description": "PS4 controller for people who can't get a PS5",
+                "price": 50,
+                "img": "https://i.imgur.com/8dp2MkB.jpg"
+            },
+            {
+                "id": 2,
+                "name": "LED Light strips",
+                "description": "LED strips for lighting up your room, to brighten up the atmosphere",
+                "price": 10,
+                "img": "https://i.imgur.com/k2g3tnC.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Airpods",
+                "description": "These Airpods are really nice to use because they play sound really good",
+                "price": 200,
+                "img": "https://i.imgur.com/A7x5gOC.png"
+            },
+            {
+                "id": 4,
+                "name": "Airpods",
+                "description": "These Airpods are really nice to use because they play sound really good",
+                "price": 200,
+                "img": "https://i.imgur.com/A7x5gOC.png"
+            },
+            {
+                "id": 5,
+                "name": "Weed",
+                "description": "Weed",
+                "price": 30,
+                "img": "https://i.imgur.com/xpOCtRL.jpg"
+            }
+        ]
+    }
 }
