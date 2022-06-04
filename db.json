@@ -85,5 +85,5 @@
             }
           ]
     },
-    "payments": "https://i.imgur.com/aaq8KsJ.png"
+    "payments": ["https://i.imgur.com/aaq8KsJ.png"]
 }
