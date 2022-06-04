@@ -85,5 +85,8 @@
             }
           ]
     },
-    "payments": ["https://i.imgur.com/aaq8KsJ.png"]
+    "payments": {
+        "src": "https://i.imgur.com/aaq8KsJ.png",
+        "alt": "Payments"
+    }
 }
