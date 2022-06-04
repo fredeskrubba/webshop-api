@@ -68,5 +68,22 @@
                 "img": "https://i.imgur.com/xpOCtRL.jpg"
             }
         ]
-    }
+    },
+    "navIcons": {
+        "navButtons": [
+            {
+              "id": 0,
+              "svg": "heart.svg",
+              "route": "wishlist",
+              "alt": "heart-icon"
+            },
+            {
+              "id": 1,
+              "svg": "account.svg",
+              "route": "account",
+              "alt": "account-icon"
+            }
+          ]
+    },
+    "payments": "https://i.imgur.com/aaq8KsJ.png"
 }
